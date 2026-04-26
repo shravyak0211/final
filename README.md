@@ -23,7 +23,8 @@ In order to make the file reproducible run "make install" in the terminal for al
 
 # Dockerhub
 ## Rule to Build Docker Image
-The Dockerhub image can be accessed on my Dockerhub account at https://hub.docker.com/r/shravyak0211/final_report
+The Dockerhub image can be accessed on my Dockerhub account at https://hub.docker.com/r/shravyak11/final_report. Another way is to 
+run "docker build -t shravyak11/final_report ." in the terminal of RStudio.
 
 ## Rule to build the report automatically in container
 Make sure that Docker is installed on desktop, and report should build automatically. 
