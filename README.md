@@ -21,7 +21,7 @@ The code for obtaining the tables, can be located in Finalpt2.Rmd in the code ch
 # Reproducible 
 In order to make the file reproducible run "make install" in the terminal for all updated changes to appear and restore package. 
 
-#Dockerhub
+# Dockerhub
 ## Rule to Build Docker Image
 The Dockerhub image can be accessed on my Dockerhub account at https://hub.docker.com/r/shravyak0211/final_report
 
